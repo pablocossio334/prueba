@@ -1,0 +1,21 @@
+
+*{
+
+    margin 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #998080;
+}
+body{
+
+    font-family: Arial;
+   
+}
+
+.canario{
+
+    display:block;
+    whith:60%;
+    margin: 60px auto;
+
+}
